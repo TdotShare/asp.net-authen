@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "asp.net-authen/1.0.0": {
+        "runtime": {
+          "asp.net-authen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "asp.net-authen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
